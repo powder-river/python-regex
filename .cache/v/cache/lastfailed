@@ -1,1 +1,3 @@
-{}
+{
+  "textminer/tests/test_separator.py": true
+}
