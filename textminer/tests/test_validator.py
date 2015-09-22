@@ -15,7 +15,7 @@ def test_binary_numbers():
     assert not v.binary("911")
 
 
-@xfail
+
 def test_binary_even():
     """String must be a binary number and be even."""
 
