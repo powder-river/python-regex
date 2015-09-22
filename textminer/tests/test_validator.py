@@ -4,7 +4,7 @@ xfail = pytest.mark.xfail
 import textminer.validator as v
 
 
-@xfail
+
 def test_binary_numbers():
     assert v.binary("0")
     assert v.binary("1")
